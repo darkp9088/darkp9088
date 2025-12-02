@@ -95,9 +95,10 @@ If you find my projects useful, consider supporting:
 
 <p align="center">
   <a href="https://t.me/your_telegram"><img src="https://img.shields.io/badge/Telegram-%40your_telegram-2CA5E0?style=for-the-badge&logo=telegram" /></a>
-  <a href="https://github.com/SPENCER"><img src="https://img.shields.io/badge/GitHub-SPENCER-black?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/SPENCER"><img src="" /></a>
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-your.email%40example.com-D14836?style=for-the-badge&logo=gmail" /></a>
 </p>
 
 ---
+
 
