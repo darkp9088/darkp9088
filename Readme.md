@@ -2,26 +2,36 @@
 <h3 align="center">Automation, Tools & Bots Developer — Building high-impact projects from India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF6B6B&center=true&vCenter=true&width=640&lines=Code+lover+%F0%9F%92%BB;Automation+enthusiast+%E2%9C%A8;Building+projects+%26+bots+24%2F7+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF6B6B&center=true&vCenter=true&width=640&lines=Code+lover+%F0%9F%92%BB;Automation+enthusiast+%E2%9C%A8;Building+projects+%26+bots+24%2F7+%F0%9F%9A%80" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SPENCER&label=Profile%20Views&color=FF6B6B&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=SPENCER&label=Profile%20Views&color=FF6B6B&style=for-the-badge" />
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
+<div style="display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;">
 
-<img align="right" alt="coding" width="350" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
+<div style="flex:1;min-width:250px;">
 
 🧠 Self-taught developer focused on automation, tooling and bots  
 🌍 Based in India — I enjoy building small, high-impact projects  
 🎮 Gamer, tinkerer and systems-level problem solver  
 ⚙️ Working on: a premium **username generator** (Fragment.com), Telegram bots, and small infra tools  
 🛠 Comfortable with **Python, C++, JavaScript, Bash**
+
+</div>
+
+<div style="flex:1;min-width:250px;text-align:center;">
+  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"
+       width="300"
+       style="border-radius:10px;display:block;margin:auto;" />
+</div>
+
+</div>
 
 ---
 
@@ -75,7 +85,7 @@ If you find my projects useful, consider supporting:
   <ul>
     <li>PC: gaming rig + Linux workflow</li>
     <li>Building small infra experiments (Docker / scripting)</li>
-    <li>Use GitHub Actions for build & deploy pipelines</li>
+    <li>Use GitHub Actions for CI/CD pipelines</li>
   </ul>
 </details>
 
@@ -90,6 +100,3 @@ If you find my projects useful, consider supporting:
 </p>
 
 ---
-
-
-
