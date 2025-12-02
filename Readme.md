@@ -26,7 +26,7 @@
 </div>
 
 <div style="flex:1;min-width:250px;text-align:center;">
-  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"
+  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif"
        width="300"
        style="border-radius:10px;display:block;margin:auto;" />
 </div>
@@ -48,14 +48,14 @@ If you like my projects, consider giving a ⭐ to the repositories — it helps 
 </p>
 
 ---
+## 🚀 Skills Overview
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SPENCER&show_icons=true&count_private=true&theme=radical" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SPENCER&layout=donut&theme=radical" height="150" />
-</p>
-
+- 🐍 Python — Advanced  
+- 🔧 Bash — Strong  
+- ⚡ JavaScript — Intermediate  
+- 💡 C++ — Competent  
+- 🔩 Automation & Bots — Expert  
+- 🛠 System Tools & Backend — Strong  
 ---
 
 ## 🔥 Featured Projects
@@ -63,9 +63,11 @@ If you like my projects, consider giving a ⭐ to the repositories — it helps 
 | 🔧 Project | 🌟 Description |
 |-----------:|:----------------|
 | **username-generator** | Premium username generator with pricing suggestions, TON domain check, and Telegram bot integration. |
+| **image-gen-frontend** | Frontend web app for generating and previewing images (upload/edit UI, presets, and download support). |
+| **moderator-bot** | Telegram moderation bot with auto-moderation rules, warning system, and configurable filters. |
 | **sales-analysis** | End-to-end sales data analysis (pandas + matplotlib) with exportable reports. |
 | **birthday-web** | Simple responsive birthday page template (aesthetic, pink) — includes image & audio options. |
-| **telegram-bots** | Collection of automation bots (spam utilities, VC tools, moderation helpers). |
+
 
 ---
 
@@ -77,18 +79,6 @@ If you like my projects, consider giving a ⭐ to the repositories — it helps 
 
 ---
 
-## 🧩 Fun Stuff
-
-<details>
-  <summary>My Setup & Toys</summary>
-  <ul>
-    <li>PC: gaming rig + Linux workflow</li>
-    <li>Building small infra experiments (Docker / scripting)</li>
-    <li>Use GitHub Actions for CI/CD pipelines</li>
-  </ul>
-</details>
-
----
 
 ## 📬 Contact
 
@@ -98,6 +88,7 @@ If you like my projects, consider giving a ⭐ to the repositories — it helps 
 </p>
 
 ---
+
 
 
 
