@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm 𝐒𝐏𝐄𝐍𝐂𝐄𝐑</h1>
+<h1 align="center">Hi 👋, I'm Aritra </h1>
 <h3 align="center">A 17-year, full-stack developer & automation expert from India 🇮🇳
 
 <p align="center">
@@ -19,7 +19,7 @@
 
 🧠 Self-taught developer focused on automation, tooling and bots  
 🌍 Based in India — I enjoy building small, high-impact projects  
-🎮 Gamer, tinkerer and systems-level problem solver  
+🎮 systems-level problem solver  
 ⚙️ Working on: a premium **username generator** (Fragment.com), Telegram bots, and small infra tools  
 🛠 Comfortable with **Python, C++, JavaScript, Bash**
 
@@ -35,10 +35,9 @@
 
 ---
 
-## 💸 Support My Work
+## 💬 Support My Work
 
-If you find my projects useful, consider supporting:  
-`(add your donation link or wallet here)`
+If you like my projects, consider giving a ⭐ to the repositories — it helps a lot!
 
 ---
 
@@ -95,10 +94,10 @@ If you find my projects useful, consider supporting:
 
 <p align="center">
   <a href="https://t.me/your_telegram"><img src="https://img.shields.io/badge/Telegram-%40your_telegram-2CA5E0?style=for-the-badge&logo=telegram" /></a>
-  <a href="https://github.com/SPENCER"><img src="" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-your.email%40example.com-D14836?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://github.com/darkp9088"><img src="https://img.shields.io/badge/GitHub-SPENCER-black?style=for-the-badge&logo=github" /></a>
 </p>
 
 ---
+
 
 
