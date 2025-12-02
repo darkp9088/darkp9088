@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm 𝐒𝐏𝐄𝐍𝐂𝐄𝐑</h1>
 <h3 align="center">Automation, Tools & Bots Developer — Building high-impact projects from India 🇮🇳</h3>
 
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF6B6B&center=true&vCenter=true&width=640&lines=Code+lover+%F0%9F%92%BB;Automation+enthusiast+%E2%9C%A8;Building+projects+%26+bots+24%2F7+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
@@ -86,3 +88,4 @@ If you find my projects useful, consider supporting:
 </p>
 
 ---
+
