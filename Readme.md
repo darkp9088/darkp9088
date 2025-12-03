@@ -2,9 +2,8 @@
 <h3 align="center">A 17-year, full-stack developer & automation expert from India 🇮🇳
 
 <<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF6B6B&center=true&vCenter=true&width=640&lines=Code+lover+%F0%9F%92%BB;Automation+enthusiast+%E2%9C%A8;Building+projects+%26+bots+24%2F7+%F0%9F%9A%80" />
-</p>
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF6B6B&center=true&vCenter=true&width=640&lines=Code+lover+%F0%9F%92%BB;Automation+enthusiast+%E2%9C%A8;Building+projects+%26+bots+24%2F7+%F0%9F%9A%80"
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SPENCER&style=for-the-badge&color=ff6b6b" />
 </p>
