@@ -6,9 +6,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SPENCER&label=Profile%20Views&color=FF6B6B&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=SPENCER&style=for-the-badge&color=ff6b6b" />
 </p>
-
 ---
 
 ## 🧑‍💻 About Me
